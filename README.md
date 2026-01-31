@@ -2,6 +2,10 @@
 
 A simple, interactive steps counter application built with vanilla JavaScript as part of the Scrimba Frontend Developer Path. Track your daily steps and save your progress with this beginner-friendly web app.
 
+## 🌐 Live Demo
+
+**🚀 [View Live Website](https://step-counter.netlify.app/)** - Experience A simple, interactive steps counter application
+
 ![Steps Counter Preview](image.png)
 
 ## ✨ Features
